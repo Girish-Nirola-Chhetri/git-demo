@@ -2,3 +2,6 @@ hello i am firish nirola chhetri
 
 def add():
     return 2+3
+
+def substract( a, b ):
+    return a +b
