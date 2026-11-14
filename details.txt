@@ -5,3 +5,9 @@ def add():
 
 def substract( a, b ):
     return a +b
+
+def modify ( a, b ):
+    return a*b
+
+def division(a, b):
+    return a /b
